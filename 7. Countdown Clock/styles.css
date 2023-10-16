@@ -42,3 +42,9 @@
 .launch-time div span {
     padding: 5px;
 }
+
+@media(max-width: 768px) {
+    .content h1 {
+        justify-content: center;
+    }
+}
